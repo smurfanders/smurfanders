@@ -1,5 +1,9 @@
 ## Smurfanders 👋
 
+- 🔭 I’m currently working on too many projects
+- 🌱 I’m currently learning c++ and python
+- 💬 Ask me about building motorcycles
+
 <!--
 **smurfanders/smurfanders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
