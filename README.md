@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on too many projects
 - 🌱 I’m currently studying c++ and python
-- 💬 Ask me about building motorcycles
+- 💬 Ask me about building anything
 
 <!--
 **smurfanders/smurfanders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
