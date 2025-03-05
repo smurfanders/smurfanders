@@ -1,7 +1,7 @@
 ## Smurfanders 👋
 
 - 🔭 I’m currently working on too many projects
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently studying c++ and python
 - 💬 Ask me about building motorcycles
 
 <!--
